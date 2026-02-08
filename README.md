@@ -1,4 +1,5 @@
-#﻿ DSA_Chatbot
+##﻿ DSA_Chatbot
+<br></br>
 The DSA Instructor Chatbot is an AI-powered learning assistant designed to help users understand Data Structures and Algorithms (DSA) in a clear, step-by-step manner. It leverages Google Gemini API to provide accurate explanations, algorithmic insights, and problem-solving guidance similar to a personal DSA tutor.
 <br></br>
 <br></br>
@@ -15,6 +16,8 @@ The DSA Instructor Chatbot is an AI-powered learning assistant designed to help 
 🧪 Helps with interview-style questions and conceptual clarity
 
 ⚡ Fast and interactive responses
+<br></br>
+<br></br>
 
 🛠️ Tech Stack
 <br></br>
@@ -25,4 +28,5 @@ Google Gemini API
 Prompt Engineering
 
 (Optional) CLI / Web Interface
+
 
